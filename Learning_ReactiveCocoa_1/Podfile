@@ -1,0 +1,8 @@
+platform :ios, '8.0'
+use_frameworks!
+inhibit_all_warnings!
+target "Learning_ReactiveCocoa_1" do
+
+	pod 'ReactiveCocoa', '~> 7.0.1'
+end
+
